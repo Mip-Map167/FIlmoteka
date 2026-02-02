@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Интерстеллар",
+    "genre": "SCIFI",
+    "year": 2014,
+    "director": "Кристофер Нолан",
+    "rating": 8.6,
+    "duration": 169,
+    "studio": "Warner Bros.",
+    "comment": "Фильм о космических путешествиях"
+  },
+  {
+    "id": 2,
+    "title": "Побег из Шоушенка",
+    "genre": "DRAMA",
+    "year": 1994,
+    "director": "Фрэнк Дарабонт",
+    "rating": 9.3,
+    "duration": 142,
+    "studio": "Columbia Pictures",
+    "comment": "Драма о надежде"
+  }
+]
