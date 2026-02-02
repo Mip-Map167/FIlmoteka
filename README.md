@@ -1,3 +1,4 @@
+<img width="700" height="440" alt="Логотип приложения" src="https://github.com/user-attachments/assets/6a450a6d-c4ba-4659-9091-42dc3ed0cb98" />
 # Фильмотека
 *Консольное приложение для каталогизации фильмов на Java Swing*
 
